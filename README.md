@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Henry LO
-- 👀 I’m interested in both software development (both front and backend) and machine learning related topic. I have my capstone project on building chatbot therapy in Cantonese.
-- 🌱 I’m currently practising web development and working on some side projects.
+- 👋 Hi, I’m Henry LO, a developer based in Hong Kong.
+- 👀 I’m interested in both software development (both front and backend) and machine learning related topic.
+- 🌱 I’m currently working on my personal projects with NodeJS, Python and other technologies.
 - 📫 Reach me through henryloth@hotmail.com to share your thought on my projects.
 
 <!---
