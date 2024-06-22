@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Henry LO, a developer based in Hong Kong.
-- 👀 I’m interested in both software development (both front and backend) and machine learning related topic.
-- 🌱 I’m currently working on my personal projects with NodeJS, Python and other technologies.
-- 📫 Reach me through henryloth@hotmail.com to share your thought on my projects.
+- 👋 Hi, I’m Henry LO, a backend developer working on a Fintech company in Hong Kong.
+- Familiar with NodeJS, Java Spring Boot and other technologies ~ 
+- Interested in statistical analysis, big data and machine learning related topics.
 
 <!---
 Henrylo1227/Henrylo1227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
